@@ -1,0 +1,12 @@
+name: RegexFilter
+main: no.atc.floyd.bukkit.regex.RegexFilter
+version: 2.4
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+             Filter chat messages using regular expressions
+commands:
+  regex:
+    description: RegexFilter Reload
+    usage: /<command> reload
+  
